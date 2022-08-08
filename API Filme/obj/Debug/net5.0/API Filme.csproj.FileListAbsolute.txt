@@ -1,0 +1,47 @@
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\appsettings.Development.json
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\appsettings.json
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.exe
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.deps.json
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.runtimeconfig.json
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.runtimeconfig.dev.json
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\API Filme.pdb
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.csproj.AssemblyReference.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.GeneratedMSBuildEditorConfig.editorconfig
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.AssemblyInfoInputs.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.AssemblyInfo.cs
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.csproj.CoreCompileInputs.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.MvcApplicationPartsAssemblyInfo.cs
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.MvcApplicationPartsAssemblyInfo.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\scopedcss\bundle\API Filme.styles.css
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\staticwebassets\API Filme.StaticWebAssets.Manifest.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.RazorTargetAssemblyInfo.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.csproj.CopyComplete
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\refint\API Filme.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.pdb
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\API Filme.genruntimeconfig.cache
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\obj\Debug\net5.0\ref\API Filme.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\MySql.Data.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Humanizer.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Google.Protobuf.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\Zstandard.Net.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\MySql.EntityFrameworkCore.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\FACULDADES\Api Rest .NET 5\API Filme\API Filme\API Filme\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
